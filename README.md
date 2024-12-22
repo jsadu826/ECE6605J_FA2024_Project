@@ -7,6 +7,6 @@
 - Affine transform related files are in [affine_transform](affine_transform).
 
 - Deep learning related files are in [deep_learning](deep_learning).
-  - The SFCM module is defined [here](deep_learning/nbnet++/nbnet_final.py)
+  - The SFCM module is defined [here](deep_learning/nbnet++/nbnet_final.py).
   - To train NBNET + SFCM (+ edge loss), modify codes in [this script](deep_learning/nbnet++/main.sh) and run.
   - To test NBNET + SFCM (+ edge loss), modify codes in [this script](deep_learning/nbnet++/test.sh) and run.
